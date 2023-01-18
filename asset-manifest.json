@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/matchingcardsgame/static/css/main.31d6cfe0.css",
+    "main.js": "/matchingcardsgame/static/js/main.bf091c26.js",
+    "index.html": "/matchingcardsgame/index.html",
+    "main.bf091c26.js.map": "/matchingcardsgame/static/js/main.bf091c26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.bf091c26.js"
+  ]
+}
